@@ -1,0 +1,9 @@
+{
+  "campaignDirectionInstanceRecord" : {
+    "advertisingCampaignExecutionSchedule" : "advertisingCampaignExecutionSchedule",
+    "advertisingCampaignDevelopmentSchedule" : "advertisingCampaignDevelopmentSchedule"
+  },
+  "campaignDirectionUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "campaignDirectionUpdateActionTaskReference" : "CDUATR716963"
+}

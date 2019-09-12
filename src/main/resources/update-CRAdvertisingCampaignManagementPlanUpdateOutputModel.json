@@ -1,0 +1,21 @@
+{
+  "advertisingCampaignManagementPlanUpdateActionTaskReference" : "ACMPUATR770233",
+  "updateResponseRecord" : {},
+  "advertisingCampaignManagementPlanUpdateActionTaskRecord" : {},
+  "advertisingCampaignPortfolio" : {
+    "advertisingCampaignPerformanceRecord" : {
+      "advertisingCampaignProcedureInstanceReference" : {
+        "advertisingCampaignExecutionPlan" : "advertisingCampaignExecutionPlan",
+        "employeeBusinessUnitReference" : "733867",
+        "advertisingCampaignProcedureResult" : "advertisingCampaignProcedureResult",
+        "advertisingCampaignDuration" : "advertisingCampaignDuration"
+      }
+    },
+    "advertisingCampaignType" : "advertisingCampaignType",
+    "advertisingCampaignMetrics" : {
+      "advertisingCampaignMetricGoal" : "advertisingCampaignMetricGoal",
+      "advertisingCampaignMetricDefinition" : "advertisingCampaignMetricDefinition"
+    },
+    "advertisingCampaignDescription" : "advertisingCampaignDescription"
+  }
+}

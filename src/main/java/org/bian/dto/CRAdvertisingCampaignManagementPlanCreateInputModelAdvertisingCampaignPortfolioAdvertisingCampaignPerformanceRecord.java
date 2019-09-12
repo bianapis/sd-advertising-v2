@@ -1,0 +1,33 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.CRAdvertisingCampaignManagementPlanCreateInputModelAdvertisingCampaignPortfolioAdvertisingCampaignPerformanceRecordAdvertisingCampaignProcedureInstanceReference;
+
+import javax.validation.Valid;
+  
+/**
+ * CRAdvertisingCampaignManagementPlanCreateInputModelAdvertisingCampaignPortfolioAdvertisingCampaignPerformanceRecord
+ */
+public class CRAdvertisingCampaignManagementPlanCreateInputModelAdvertisingCampaignPortfolioAdvertisingCampaignPerformanceRecord   {
+  private CRAdvertisingCampaignManagementPlanCreateInputModelAdvertisingCampaignPortfolioAdvertisingCampaignPerformanceRecordAdvertisingCampaignProcedureInstanceReference advertisingCampaignProcedureInstanceReference = null;
+
+
+  /**
+   * Get advertisingCampaignProcedureInstanceReference
+   * @return advertisingCampaignProcedureInstanceReference
+  **/
+
+  public CRAdvertisingCampaignManagementPlanCreateInputModelAdvertisingCampaignPortfolioAdvertisingCampaignPerformanceRecordAdvertisingCampaignProcedureInstanceReference getAdvertisingCampaignProcedureInstanceReference() {
+    return advertisingCampaignProcedureInstanceReference;
+  }
+
+  public void setAdvertisingCampaignProcedureInstanceReference(CRAdvertisingCampaignManagementPlanCreateInputModelAdvertisingCampaignPortfolioAdvertisingCampaignPerformanceRecordAdvertisingCampaignProcedureInstanceReference advertisingCampaignProcedureInstanceReference) {
+    this.advertisingCampaignProcedureInstanceReference = advertisingCampaignProcedureInstanceReference;
+  }
+
+
+}
+

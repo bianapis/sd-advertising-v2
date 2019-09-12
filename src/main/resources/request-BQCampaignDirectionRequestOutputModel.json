@@ -1,0 +1,10 @@
+{
+  "campaignDirectionInstanceRecord" : {
+    "advertisingCampaignExecutionSchedule" : "advertisingCampaignExecutionSchedule",
+    "advertisingCampaignDevelopmentSchedule" : "advertisingCampaignDevelopmentSchedule"
+  },
+  "campaignDirectionRequestRecordReference" : "CDRRR780338",
+  "campaignDirectionRequestActionTaskRecord" : {},
+  "campaignDirectionRequestActionTaskReference" : "CDRATR769225",
+  "requestResponseRecord" : {}
+}

@@ -1,0 +1,13 @@
+{
+  "requestRecordReference" : "RRR744871",
+  "advertisingCampaignPortfolio" : {
+    "advertisingCampaignType" : "advertisingCampaignType",
+    "advertisingCampaignMetrics" : {
+      "advertisingCampaignMetricDefinition" : "advertisingCampaignMetricDefinition"
+    },
+    "advertisingCampaignDescription" : "advertisingCampaignDescription"
+  },
+  "advertisingCampaignManagementPlanRequestActionTaskRecord" : {},
+  "advertisingCampaignManagementPlanRequestActionTaskReference" : "ACMPRATR744925",
+  "requestResponseRecord" : {}
+}

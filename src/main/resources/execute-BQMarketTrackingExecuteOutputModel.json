@@ -1,0 +1,15 @@
+{
+  "marketTrackingExecuteActionTaskReference" : "MTEATR759249",
+  "marketTrackingExecuteRecordReference" : "MTERR765186",
+  "executeResponseRecord" : {},
+  "marketTrackingInstanceRecord" : {
+    "marketTrackingWorkTaskWorkProducts" : "marketTrackingWorkTaskWorkProducts",
+    "marketTrackingWorkTaskResult" : "marketTrackingWorkTaskResult",
+    "marketTrackingWorkTask" : {
+      "generalMarketResearchDirectoryEntryInstanceReference" : "799543"
+    },
+    "marketTrackingWorkTaskType" : "marketTrackingWorkTaskType",
+    "marketTrackingWorkTaskDateTime" : "09-22-2018"
+  },
+  "marketTrackingExecuteActionTaskRecord" : {}
+}

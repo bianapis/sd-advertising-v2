@@ -1,0 +1,21 @@
+{
+  "campaignDirectionInstanceRecord" : {
+    "advertisingCampaignExecutionSchedule" : "advertisingCampaignExecutionSchedule",
+    "advertisingCampaignDevelopmentSchedule" : "advertisingCampaignDevelopmentSchedule"
+  },
+  "campaignDirectionInstanceAnalysis" : {
+    "campaignDirectionInstanceAnalysisReport" : {},
+    "campaignDirectionInstanceAnalysisReportType" : "campaignDirectionInstanceAnalysisReportType",
+    "campaignDirectionInstanceAnalysisParameters" : "campaignDirectionInstanceAnalysisParameters",
+    "campaignDirectionInstanceAnalysisRecord" : {}
+  },
+  "campaignDirectionRetrieveActionTaskRecord" : {},
+  "campaignDirectionRetrieveActionResponse" : "campaignDirectionRetrieveActionResponse",
+  "campaignDirectionInstanceReport" : {
+    "campaignDirectionInstanceReportRecord" : {},
+    "campaignDirectionInstanceReport" : {},
+    "campaignDirectionInstanceReportParameters" : "campaignDirectionInstanceReportParameters",
+    "campaignDirectionInstanceReportType" : "campaignDirectionInstanceReportType"
+  },
+  "campaignDirectionRetrieveActionTaskReference" : "CDRATR766243"
+}

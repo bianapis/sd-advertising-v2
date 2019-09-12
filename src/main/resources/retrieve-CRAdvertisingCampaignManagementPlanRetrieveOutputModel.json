@@ -1,0 +1,31 @@
+{
+  "advertisingCampaignManagementPlanRetrieveActionResponse" : "advertisingCampaignManagementPlanRetrieveActionResponse",
+  "advertisingCampaignManagementPlanRetrieveActionTaskReference" : "ACMPRATR760010",
+  "advertisingCampaignPortfolio" : {
+    "advertisingCampaignPerformanceRecord" : {
+      "advertisingCampaignProcedureInstanceReference" : {
+        "advertisingCampaignExecutionPlan" : "advertisingCampaignExecutionPlan",
+        "employeeBusinessUnitReference" : "786338",
+        "advertisingCampaignProcedureResult" : "advertisingCampaignProcedureResult",
+        "advertisingCampaignDuration" : "advertisingCampaignDuration"
+      }
+    },
+    "advertisingCampaignType" : "advertisingCampaignType",
+    "advertisingCampaignMetrics" : {
+      "advertisingCampaignMetricGoal" : "advertisingCampaignMetricGoal",
+      "advertisingCampaignMetricDefinition" : "advertisingCampaignMetricDefinition"
+    },
+    "advertisingCampaignDescription" : "advertisingCampaignDescription"
+  },
+  "advertisingCampaignManagementPlanInstanceReportRecord" : {
+    "advertisingCampaignManagementPlanInstanceReport" : {},
+    "advertisingCampaignManagementPlanInstanceReportData" : "advertisingCampaignManagementPlanInstanceReportData",
+    "advertisingCampaignManagementPlanInstanceReportType" : "advertisingCampaignManagementPlanInstanceReportType"
+  },
+  "advertisingCampaignManagementPlanRetrieveActionTaskRecord" : {},
+  "advertisingCampaignManagementPlanInstanceAnalysis" : {
+    "advertisingCampaignManagementPlanInstanceAnalysisData" : "advertisingCampaignManagementPlanInstanceAnalysisData",
+    "advertisingCampaignManagementPlanInstanceAnalysisReportType" : "advertisingCampaignManagementPlanInstanceAnalysisReportType",
+    "advertisingCampaignManagementPlanInstanceAnalysisReport" : {}
+  }
+}

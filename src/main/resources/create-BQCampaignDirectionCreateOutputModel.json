@@ -1,0 +1,10 @@
+{
+  "campaignDirectionInitiateActionReference" : "CDIAR792205",
+  "campaignDirectionInstanceRecord" : {
+    "advertisingCampaignExecutionSchedule" : "advertisingCampaignExecutionSchedule",
+    "advertisingCampaignDevelopmentSchedule" : "advertisingCampaignDevelopmentSchedule"
+  },
+  "campaignDirectionInitiateActionRecord" : {},
+  "campaignDirectionInstanceStatus" : "campaignDirectionInstanceStatus",
+  "campaignDirectionInstanceReference" : "CDIR776685"
+}
